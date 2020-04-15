@@ -50,9 +50,7 @@ li a:hover {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  border-radius: 12px 12px 12px 12px;
-  -moz-border-radius: 12px 12px 12px 12px;
-  -webkit-border-radius: 12px 12px 12px 12px;
-  border: 7px solid #000000;
-  
+}
+.hackertext{
+  text-align: left;
 }
