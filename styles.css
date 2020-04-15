@@ -45,3 +45,9 @@ li a:hover {
   background-color: #111;
 }
 /* Navigation Bar */
+.hacker {
+  border-radius: 12px 12px 12px 12px;
+  -moz-border-radius: 12px 12px 12px 12px;
+  -webkit-border-radius: 12px 12px 12px 12px;
+  border: 7px solid #000000;
+}
